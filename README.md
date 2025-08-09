@@ -1,4 +1,4 @@
-# 🚀GitHub-Repository-Analyzer-
+# 🚀GitHub Repository Analyzer
 
 The GitHub Repository Code Analyzer is an advanced Java-based desktop  application designed to facilitate codebase analysis and management. With a  focus on usability and functionality, the application provides users with an  intuitive interface to analyze code repositories locally.It offers a comprehensive feature set tailored for developers and project managers, combining multiple tools into a unified platform. Users can securely log in or register, ensuring access to personalized features. Once logged in, users can upload a code folder or a local GitHub repository clone to utilize tools for analyzing files, editing and saving code, searching for keywords, and tracking user activity history. 
 
